@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679097350594",
+    "project_id": "smc241024",
+    "storage_bucket": "smc241024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679097350594:android:54383f7eaf093f2aa7fe5b",
+        "android_client_info": {
+          "package_name": "com.kaisaer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDed08PkjyfeC66lsi6QsbiQlvJKeS-PXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
